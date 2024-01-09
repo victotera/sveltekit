@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app 111
+		to your new<br />SvelteKit app 222
 	</h1>
 
 	<h2>
