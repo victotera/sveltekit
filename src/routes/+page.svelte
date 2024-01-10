@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		to your new<br />SvelteKit app 222
+		to your new<br />SvelteKit New Server
 	</h1>
 
 	<h2>
