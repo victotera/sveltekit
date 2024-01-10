@@ -40,7 +40,7 @@ jobs:
       - name: Deploy on CapRover
         uses: caprover/deploy-from-github@v1.1.2
         with:
-          server: https://ba3a.in.ua
+          server: ${{ secrets.APP_SERVER }}
           app: 'sveltekit'
           token: '${{ secrets.APP_TOKEN }}'
           image: ${{ env.IMAGE_URL }}
